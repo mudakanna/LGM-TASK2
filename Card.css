@@ -1,0 +1,38 @@
+.content{
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+    margin: 2rem;
+    border-style: groove;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+}
+.avtar{
+    padding: 1rem;
+    margin: 0.5rem;
+    align-items: center;
+}
+.data span{
+    text-align: center;
+    font-family: cursive;
+
+}
+.avtar img{
+    width: 8rem;
+    height: 8rem;
+}
+.name{
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+    
+}
+.name span{
+    font-weight: 300;
+}
+.data{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,13 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    margin: 2rem;
+}
+.row1{
+    display: flex;
+    justify-content: space-around;
+}
+.row2{
+    display: flex;
+    justify-content: space-around;
+}
